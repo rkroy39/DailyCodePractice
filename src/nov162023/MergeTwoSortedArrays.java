@@ -29,13 +29,7 @@ public class MergeTwoSortedArrays {
 				j++;}
 				k++;
 			}
-			
-		
-		
-		System.out.println("value of i"+i);
-		System.out.println("value of j"+j);
-		int rem=Math.abs(i-j);
-System.out.println(rem);
+
 if(i<j) {
 	while(i<array1.length) {
 	array3[k]=array1[i];
